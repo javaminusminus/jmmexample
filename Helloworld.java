@@ -1,4 +1,4 @@
-package github.com.ricallinson.jmmexample;
+package github.com.javaminusminus.jmmexample;
 
 class Helloworld {  
     public static void main(String args[]) {
