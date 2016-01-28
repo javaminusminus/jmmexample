@@ -1,5 +1,7 @@
 # Java-- Example Application
 
+[![Build Status](https://travis-ci.org/javaminusminus/jmmexample.svg?branch=master)](https://travis-ci.org/javaminusminus/jmmexample)
+
 This is an example project for [Java--](https://github.com/ricallinson/jmm).
 
 	mkdir ./jmmtest
