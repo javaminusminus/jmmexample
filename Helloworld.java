@@ -4,7 +4,7 @@
 // See the accompanying LICENSE file for terms.
 //
 
-package github.com.javaminusminus.jmmexample;
+package github.com.jminusminus.jmmexample;
 
 public class Helloworld {
 
@@ -13,6 +13,6 @@ public class Helloworld {
     }
 
     public static String msg() {
-    	return "Congratulations on your first Java-- application.";
+    	return "Congratulations on your first Jmm application.";
     }
 }

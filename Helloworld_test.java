@@ -4,9 +4,9 @@
 // See the accompanying LICENSE file for terms.
 //
 
-package github.com.javaminusminus.jmmexample;
+package github.com.jminusminus.jmmexample;
 
-import github.com.javaminusminus.simplebdd.Test;
+import github.com.jminusminus.simplebdd.Test;
 
 public class Helloworld_test extends Test {
 
@@ -17,6 +17,6 @@ public class Helloworld_test extends Test {
 
     public void testMsg() {
         this.should("return the congratulations text");
-        this.assertEqual(Helloworld.msg(), "Congratulations on your first Java-- application.");
+        this.assertEqual(Helloworld.msg(), "Congratulations on your first Jmm application.");
     }
 }
