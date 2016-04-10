@@ -12,6 +12,7 @@ package github.com.jminusminus.jmmexample;
 public class Helloworld {
 
     // The following jmm commands will setup up a Jmm workspace, pull down the code for this project, test it, install it and then run it.
+    //
     //     mkdir ./jmmtest
     //     cd ./jmmtest
     //     jmm here .
