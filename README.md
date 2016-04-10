@@ -10,6 +10,7 @@ This is an example project for [Jmm](https://github.com/ricallinson/jmm).
 jmm get github.com/jminusminus/jmmexample
 ```
 The following jmm commands will setup up a Jmm workspace, pull down the code for this project, test it, install it and then run it.
+
     mkdir ./jmmtest
     cd ./jmmtest
     jmm here .
